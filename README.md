@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @sivakumarkc
-- 👀 I’m interested in deep learning and compuatational biology
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on computational biology project
-- 📫 You can reach me @sivakumar.kc@gmail.com
+Generate a Volcano plot
 
-<!---
-sivakumarkc/sivakumarkc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A volcano plot is a two-dimensional (2D) scatter plot with the shape of a volcano. Volcano plot used for visualization and identification of statistically significant gene expression changes from two different experimental conditions (e.g. normal vs. treated) in terms of log fold change (X-axis) and pvalue (Y-axis).
